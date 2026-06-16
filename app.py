@@ -1,5 +1,8 @@
 import streamlit as st
 
+# Hiển thị logo
+st.image("z7921870790296_de116c7956d7f8ee5c6673013ccf709f", width=150)
+
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Khánh Linh")
 
