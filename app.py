@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Hiển thị logo
-st.image("1111.jpg", width=150)
+https://github.com/Rubbychan-cuti/laidonlaikep/issues/1#issue-4671376450
 
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Khánh Linh")
